@@ -1,0 +1,96 @@
+{
+  "_args": [
+    [
+      {
+        "name": "markdown-invoicer",
+        "raw": "markdown-invoicer@0.0.1",
+        "rawSpec": "0.0.1",
+        "scope": null,
+        "spec": "0.0.1",
+        "type": "version"
+      },
+      "/Users/antoninotocco/Desktop/webgest"
+    ]
+  ],
+  "_from": "markdown-invoicer@0.0.1",
+  "_id": "markdown-invoicer@0.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/markdown-invoicer",
+  "_nodeVersion": "4.3.1",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/markdown-invoicer-0.0.1.tgz_1465806975832_0.1919421178754419"
+  },
+  "_npmUser": {
+    "email": "entonytocco@gmail.com",
+    "name": "entonytocco"
+  },
+  "_npmVersion": "2.14.12",
+  "_phantomChildren": {
+    "through": "2.3.8"
+  },
+  "_requested": {
+    "name": "markdown-invoicer",
+    "raw": "markdown-invoicer@0.0.1",
+    "rawSpec": "0.0.1",
+    "scope": null,
+    "spec": "0.0.1",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/markdown-invoicer/-/markdown-invoicer-0.0.1.tgz",
+  "_shasum": "3a844c66827d9f155aa1dd42fa21fc00d63bd7b7",
+  "_shrinkwrap": null,
+  "_spec": "markdown-invoicer@0.0.1",
+  "_where": "/Users/antoninotocco/Desktop/webgest",
+  "author": {
+    "email": "=",
+    "name": "Antonino Tocco",
+    "url": "=http://www.entonytocco.com"
+  },
+  "bugs": {
+    "url": "https://github.com/antonino-tocco/invoicer/issues"
+  },
+  "dependencies": {
+    "duplexer": "^0.1.1",
+    "markdown-pdf": "^2.2.0",
+    "split": "^0.3.0",
+    "through": "^2.3.4"
+  },
+  "description": "Invoice PDF generator API",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "3a844c66827d9f155aa1dd42fa21fc00d63bd7b7",
+    "tarball": "https://registry.npmjs.org/markdown-invoicer/-/markdown-invoicer-0.0.1.tgz"
+  },
+  "homepage": "https://github.com/antonino-tocco/invoicer#readme",
+  "keywords": [
+    "invoice",
+    "markdown",
+    "API",
+    "pdf"
+  ],
+  "license": "ISC",
+  "main": "app.js",
+  "maintainers": [
+    {
+      "email": "entonytocco@gmail.com",
+      "name": "entonytocco"
+    }
+  ],
+  "name": "markdown-invoicer",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonino-tocco/invoicer.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
