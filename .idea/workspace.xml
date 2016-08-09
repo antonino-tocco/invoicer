@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06979ff2-e1f2-4c89-b8ea-5085299ce4db" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/invoicer.js" afterPath="$PROJECT_DIR$/lib/invoicer.js" />
     </list>
     <ignored path="invoicer.iws" />
@@ -89,8 +88,8 @@
       <file leaf-file-name="invoicer.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/invoicer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+            <state relative-caret-position="331">
+              <caret line="53" column="97" selection-start-line="53" selection-start-column="97" selection-end-line="53" selection-end-column="97" />
               <folding />
             </state>
           </provider>
@@ -256,12 +255,12 @@
       <workItem from="1466768508323" duration="571000" />
       <workItem from="1466927598493" duration="96000" />
       <workItem from="1470167906787" duration="3433000" />
-      <workItem from="1470767233475" duration="646000" />
+      <workItem from="1470767233475" duration="694000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7940000" />
+    <option name="totallyTimeSpent" value="7988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -595,8 +594,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/invoicer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="87" column="9" selection-start-line="87" selection-start-column="9" selection-end-line="87" selection-end-column="9" />
+        <state relative-caret-position="331">
+          <caret line="53" column="97" selection-start-line="53" selection-start-column="97" selection-end-line="53" selection-end-column="97" />
           <folding />
         </state>
       </provider>
